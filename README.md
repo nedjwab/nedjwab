@@ -12,15 +12,8 @@
 ![Profile views](https://page-views.glitch.me/badge?page_id=nedjwab.visitor-badge)
 [![Github](https://img.shields.io/github/followers/nedjwab?label=Follow&style=social)](https://github.com/nedjwab)
 
-<div size='20px'> Hello, I am full stack developer, working on multiple open source projects, mainly backend using Node.JS and Mongodb. I have created a range of Discord BOT applications allowing me to become a Verified Discord Bot Developer:smile:
-        # Hi there 👋, 
-### My name is Sayantani Deb
-#### Computer Science Sophomore
-
-
-I love learning new languages and implementing them in various projects. Currently engrossed with Frontend and hoping to learn a lot more!
-
-Skills: HTML / CSS
+<div size='20px'>Hello, I am Nedjwa, a full stack Developer. I love learning new languages and implementing them in various projects. Currently engrossed with Frontend and hoping to learn a lot more!:smile:
+ 
 </div>
 
 <h2 > About Me :woman:</h2>
@@ -32,8 +25,8 @@ Skills: HTML / CSS
 - 🌱 I’m currently Full time Student at [@microverse](https://www.microverse.org/).
 - 🖌 I'm a UI/UX Designer , i like playing with colors and shapes.
 - ♥  I'm in love with everything has relation to Tech and Design..
-- 👯 I’m looking to collaborate on Projects.
-- 💬 Talk to me about  JavaScript, Freelancing Opportunites, Open Source and Design.
+- 👯 I’m looking to collaborate on new Projects.
+- 💬 Talk to me about  Problem solving,JavaScript,Freelancing Opportunites, Open Source and Design.
 
 <h2 > Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
@@ -48,11 +41,12 @@ Skills: HTML / CSS
  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width ='32px'/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width ='32px'/>
 
 <h2 > Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
-<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
-<a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>
-<a href = 'https://www.github.com/Aditya664'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://www.linkedin.com/in/nedjwa-bouraiou-512a5015a/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a href = 'https://twitter.com/ned_jwa'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
+ <a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
+<a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/g.svg"/></a>
+
+
 
 <br>
 <br>
