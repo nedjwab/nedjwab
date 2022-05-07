@@ -23,6 +23,7 @@
 
 - 🔭 Master's degree in network and distributed systems from university Constantine 2, Algeria
 - 🌱 I’m currently Full time Student at [@microverse](https://www.microverse.org/).
+- 💻 I’m currently leveling up my javascript skills.
 - 🖌 I'm a UI/UX Designer , i like playing with colors and shapes.
 - ♥  I'm in love with everything has relation to Tech and Design..
 - 👯 I’m looking to collaborate on new Projects.
