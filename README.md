@@ -22,12 +22,12 @@
 
 
 - 🔭 Master's degree in network and distributed systems from university Constantine 2, Algeria
-- 🌱 I’m currently Full time Student at [@microverse](https://www.microverse.org/).
+- 🌱 I’m currently a Full-time Student at [@microverse](https://www.microverse.org/).
 - 💻 I’m currently leveling up my javascript skills.
-- 🖌 I'm a UI/UX Designer , i like playing with colors and shapes.
-- ♥  I'm in love with everything has relation to Tech and Design..
-- 👯 I’m looking to collaborate on new Projects.
-- 💬 Talk to me about  Problem solving,JavaScript,Freelancing Opportunites, Open Source and Design.
+- 🖌 I'm a UI/UX Designer, and I like playing with colors and shapes.
+- ♥  I'm in love with everything that has a relation to Tech and Design.
+- 👯 I’m looking to collaborate on new projects.
+- 💬 Talk to me about Problem-solving, JavaScript, Freelancing opportunities, Open Source and Design.
 - 🖌 My portfolio ...⛏
 
 <h2 > Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
