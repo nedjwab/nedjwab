@@ -12,7 +12,7 @@
 ![Profile views](https://page-views.glitch.me/badge?page_id=nedjwab.visitor-badge)
 [![Github](https://img.shields.io/github/followers/nedjwab?label=Follow&style=social)](https://github.com/nedjwab)
 
-<div size='20px'>Hello, I am Nedjwa, a full stack Developer. I love learning new languages and implementing them in various projects. Currently engrossed with Frontend and hoping to learn a lot more!:smile:
+<div size='20px'>Hello, I am Nedjwa, a full stack Developer from Algeria. I love learning new languages and implementing them in various projects. Currently engrossed with Frontend and hoping to learn a lot more!:smile:
  
 </div>
 
