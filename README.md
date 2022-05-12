@@ -11,6 +11,7 @@
 
 ![Profile views](https://page-views.glitch.me/badge?page_id=nedjwab.visitor-badge)
 [![Github](https://img.shields.io/github/followers/nedjwab?label=Follow&style=social)](https://github.com/nedjwab)
+[![wakatime](https://wakatime.com/badge/user/492a4b84-0d0c-4574-ba74-bf969187694c.svg)](https://wakatime.com/@492a4b84-0d0c-4574-ba74-bf969187694c)
 
 <div size='20px'>Hello, I am Nedjwa, a full stack Developer from Algeria. I love learning new languages and implementing them in various projects. Currently engrossed with Frontend and hoping to learn a lot more!:smile:
  
@@ -54,6 +55,7 @@
 | ![Nedjwa's 𝚐𝚒𝚝𝚑𝚞𝚋 stats](https://github-readme-stats.vercel.app/api?username=nedjwab&show_icons=true&theme=radical)             | ![nedjwab GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nedjwab&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nedjwab&langs_count=8&theme=radical&layout=compact) | [![Nedjwa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nedjwab&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
