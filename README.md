@@ -54,7 +54,7 @@
  ![Nedjwa's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=nedjwab&theme=redical&hide_border=true&area=true)
 | ![Nedjwa's 𝚐𝚒𝚝𝚑𝚞𝚋 stats](https://github-readme-stats.vercel.app/api?username=nedjwab&show_icons=true&theme=radical)             | ![nedjwab GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nedjwab&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nedjwab&langs_count=8&theme=radical&layout=compact) | [![Nedjwa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nedjwab&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nedjwab&langs_count=8&theme=radical&layout=compact) |
 
 
 
