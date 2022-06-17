@@ -24,7 +24,7 @@
 
 - 🔭 Master's degree in network and distributed systems from university Constantine 2, Algeria
 - 🌱 I’m currently a Full-time Student at [@microverse](https://www.microverse.org/).
-- 💻 I’m currently leveling up my javascript skills.
+- 💻 I’m currently leveling up my React skills.
 - 🖌 I'm a UI/UX Designer, and I like playing with colors and shapes.
 - ♥  I'm in love with everything that has a relation to Tech and Design.
 - 👯 I’m looking to collaborate on new projects.
@@ -33,22 +33,31 @@
 
 <h2 > Skills 🔥  </h2>
 <div align="left">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma"  width="40px" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator"  width="40px" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma"  width="40px" /> 
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=ps" alt="photoshop"  width="40px" /> 
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=ai"  alt="Illustrator"  width="40px" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD"  width="40px" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript"  width="40px" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5"  width="47px" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3"  width="47px" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git"  width="40px" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL"  width="40px" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript"  width="40px" /> 
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5"  width="40px" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3"  width="40px" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=wordpress" alt="wordpress"  width="40px" /> 
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git"  width="40px" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL"  width="40px" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=postgres" alt="postgres"  width="40px" />         
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap"  width="40px" />  
-<img style="margin: 10px" src="https://github.com/gilbarbara/logos/blob/master/logos/jest.svg" alt="Jest"  width="40px" height="40px" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=jest" alt="Jest"  width="40px" height="40px" />  
 <img style="margin: 10px" src="https://github.com/gilbarbara/logos/blob/master/logos/postman-icon.svg" alt="postman"  width="40px" height="40px" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="react"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode" alt="vscode"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=webpack" alt="webpack"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=heroku" alt="heroku"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=netlify" alt="netlify"  width="40px" height="40px" />
+
 </div>
 
 <h2 > Connect with me  💻</h2>
-<a href = 'https://www.linkedin.com/in/nedjwa-bouraiou-512a5015a/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<a href = 'https://twitter.com/ned_jwa'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
+<a href = 'https://www.linkedin.com/in/nedjwa-bouraiou-512a5015a/'> <img width = '32px' align= 'center' src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href = 'https://twitter.com/ned_jwa'> <img width = '32px' align= 'center' src="https://skillicons.dev/icons?i=twitter"/></a>
 <br>
 <br>
   <br>
