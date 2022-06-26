@@ -24,7 +24,7 @@
 
 - 🔭 Master's degree in network and distributed systems from university Constantine 2, Algeria
 - 🌱 I’m currently a Full-time Student at [@microverse](https://www.microverse.org/).
-- 💻 I’m currently leveling up my React skills.
+- 💻 I’m currently leveling up my React and Redux skills.
 - 🖌 I'm a UI/UX Designer, and I like playing with colors and shapes.
 - ♥  I'm in love with everything that has a relation to Tech and Design.
 - 👯 I’m looking to collaborate on new projects.
@@ -52,6 +52,8 @@
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=webpack" alt="webpack"  width="40px" height="40px" />
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=heroku" alt="heroku"  width="40px" height="40px" />
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=netlify" alt="netlify"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=redux" alt="redux"  width="40px" height="40px" />
+
 
 </div>
 
