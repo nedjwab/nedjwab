@@ -23,8 +23,7 @@
 
 
 - 🔭 Master's degree in network and distributed systems from university Constantine 2, Algeria
-- 🌱 I’m currently a Full-time Student at [@microverse](https://www.microverse.org/).
-- 💻 I’m currently leveling up my Ruby and databases skills.
+- 💻 I’m currently working on side projects.
 - 🖌 I'm a UI/UX Designer, and I like playing with colors and shapes.
 - ♥  I'm in love with everything that has a relation to Tech and Design.
 - 👯 I’m looking to collaborate on new projects.
@@ -40,10 +39,13 @@
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript"  width="40px" /> 
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5"  width="40px" />  
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3"  width="40px" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwind" alt="tailwind"  width="40px" height="40px" />
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=wordpress" alt="wordpress"  width="40px" /> 
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git"  width="40px" />  
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL"  width="40px" />  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=postgres" alt="postgres"  width="40px" />         
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=postgres" alt="postgres"  width="40px" />   
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=ruby" alt="ruby"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=rails" alt="rails"  width="40px" height="40px" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap"  width="40px" />  
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=jest" alt="Jest"  width="40px" height="40px" />  
 <img style="margin: 10px" src="https://github.com/gilbarbara/logos/blob/master/logos/postman-icon.svg" alt="postman"  width="40px" height="40px" />  
