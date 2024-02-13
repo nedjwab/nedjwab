@@ -13,7 +13,7 @@
 [![Github](https://img.shields.io/github/followers/nedjwab?label=Follow&style=social)](https://github.com/nedjwab)
 [![wakatime](https://wakatime.com/badge/user/492a4b84-0d0c-4574-ba74-bf969187694c.svg)](https://wakatime.com/@492a4b84-0d0c-4574-ba74-bf969187694c)
 
-<div size='20px'>Hello, I am Nedjwa, a full stack Developer from Algeria. I love learning new languages and implementing them in various projects. Currently engrossed with Frontend and hoping to learn a lot more!:smile:
+<div size='20px'>Hello, I am Nedjwa, a full-stack Developer from Algeria. I love learning new languages and implementing them in various projects. Currently engrossed with Frontend and hoping to learn a lot more!:smile:
  
 </div>
 
@@ -24,11 +24,11 @@
 
 - 🔭 Master's degree in network and distributed systems from university Constantine 2, Algeria
 - 💻 I’m currently working on side projects.
-- 🖌 I'm a UI/UX Designer, and I like playing with colors and shapes.
-- ♥  I'm in love with everything that has a relation to Tech and Design.
+- 🖌 I'm a UI/UX Designer and like playing with colors and shapes.
+- ♥  I'm in love with everything related to Tech and Design.
 - 👯 I’m looking to collaborate on new projects.
 - 💬 Talk to me about Problem-solving, JavaScript, Freelancing opportunities, Open Source and Design.
-- 🖌 My portfolio ...⛏
+- 🖌 [Portfolio](https://nedjwa.netlify.app/)
 
 <h2 > Skills 🔥  </h2>
 <div align="left">
